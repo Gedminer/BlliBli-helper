@@ -1,7 +1,7 @@
 {
-  "numberOfCoins": 2,
+  "numberOfCoins": 0,
   "selectLike": 0,
-  "monthEndAutoCharge": true,
+  "monthEndAutoCharge": false,
   "devicePlatform": "android",
   "coinAddPriority": 1,
   "skipDailyTask": 0,
